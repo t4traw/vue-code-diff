@@ -34,7 +34,7 @@ export default {
 | old-string| 陈旧的字符串| string  |   —    |    —     |
 | new-string| 新的字符串| string  |   —    |    —     |
 | context| 不同地方上下间隔多少行不隐藏 | number  |   —    |    —     |
-| outputFormat| 展示的方式 | string  |   line-by-line，side-by-side    |    line-by-line     |
+| output-format| 展示的方式 | string  |   line-by-line，side-by-side    |    line-by-line     |
 
 
 ## 效果展示
